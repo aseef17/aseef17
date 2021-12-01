@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aseef17/aseef17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aseef!
+Currently pursuing my **Master's Degree** in Computer Science at Old Dominion Univerisity.
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-AseefKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aseef17/)
+[![Gmail](https://img.shields.io/badge/-aseef17-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aseef17@gmail.com)
+
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/aseef17?tab=repositories">
+         <img src="https://github-readme-stats.vercel.app/api?username=aseef17&show_icons=true&count_private=true" />
+  </a>
+</p>
