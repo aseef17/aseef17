@@ -8,8 +8,8 @@ Currently pursuing my **Master's Degree** in Computer Science at Old Dominion Un
 [![Gmail](https://img.shields.io/badge/-aseef17-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aseef17@gmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-
+<!-- ![](https://komarev.com/ghpvc/?username=aseef17&style=flat) -->
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <p> <!-- GitHub README Stats -->
